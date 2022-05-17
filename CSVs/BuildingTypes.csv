@@ -1,0 +1,16 @@
+building,SupPopVal,worker,SupPopValWorker,patrons,patronsVar,characteristics
+Tavern,120,Tavern Keeper; service wench; glassy; cook,200,10,4,shady and sour; respected and hearty; pretentious and insubstantial
+Grocery,100,Grocer; deliverer,120,6,2,fresh fruits and grains; withered plants; grey meat; preserved meats and herbs
+Apothecary,200,medic; apprentice,200,1,0.5,herbs and leeches; crystals and quackery; saws and sadism
+carpenter,300,carpenter; apprentice,400,1,0.5,poorly supplied; effective and demanded
+Smithy,300,Blacksmith; apprentice,400,1,0.5,poorly supplied; effective and demanded
+Brothel,500,Sex worker; service wench; madame,400,5,1,ornate and sensual; vapours and befuddlement; homely and healthy
+leaders hall,200,Leader; advisor; sycophant; agitator,150,4,4,shady and sour; respected and hearty; pretentious and insubstantial
+church,300,minister; spiritual presence; dogsbody,300,9,3,shady and sour; respected and hearty; pretentious and insubstantial
+School,1000,Professor; teaching aide,500,15,4,shady and sour; respected and hearty; pretentious and insubstantial
+Barracks,1000,soldier; dogsbody; guard; commander,200,2,1,chaotic neutral; lawful evil; lawful good
+Shoppe,500,Shoppe Keeper; supplier,500,1,0.5,jeweller; book seller; magic shoppe; artisan; armorer; weapons smith; cloth worker
+pottery,200,potter; apprentice,,1,0.5,poorly supplied; effective and demanded
+cloth maker,200,weaver; tailor; apprentice,,1,0.5,poorly supplied; effective and demanded
+theatre,400,musician; actor; jester; serving wench,,15,4,ornate and sensual; vapours and befuddlement; homely and healthy
+House,else,house keeper; ditch digger; messenger; caravaneer; wood gatherer; militia; miner; labourer,,2,0.5,hovel; cottage; ramshackle storeyed; relatively square
