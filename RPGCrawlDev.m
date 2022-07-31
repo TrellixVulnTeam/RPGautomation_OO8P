@@ -186,7 +186,7 @@ function selection = rndFromNamedCol(table, column)
   selection = selection(1);
 end
 
-function selection = assignByProp(table, characteristic)
+function selection = assignByProp(able, characteristic)
     set = table(ismember(table.characteristic, characteristic), :);
     if isnan(set.value(1))
         selector = randi([1 height(set)]);
